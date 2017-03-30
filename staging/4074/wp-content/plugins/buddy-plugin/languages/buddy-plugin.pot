@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Buddy\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-01 10:46-0000\n"
+"PO-Revision-Date: 2016-08-01 10:46-0000\n"
+"Last-Translator: GhostPool\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_n_noop:1,2;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: ./\n"
+"X-Generator: Poedit 1.7.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../custom-sidebars/custom-sidebars.php:109
+#: ../custom-sidebars/custom-sidebars.php:175
+#: ../custom-sidebars/custom-sidebars.php:457
+msgid "You do not have permission to delete sidebars"
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:135
+#, php-format
+msgid "The sidebar \"%s\" has been deleted."
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:137
+#, php-format
+msgid "There was not any sidebar called \"%s\" and it could not been deleted."
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:214
+#: ../custom-sidebars/views/edit.php:5
+#: ../custom-sidebars/views/settings.php:3
+msgid "Sidebars"
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:265
+msgid "The custom sidebars settings has been updated successfully."
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:272
+msgid "You have to fill all the fields to create a new sidebar."
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:296
+#: ../custom-sidebars/custom-sidebars.php:319
+msgid "The sidebar has been created successfully."
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:301
+msgid ""
+"There is already a sidebar registered with that name, please choose a "
+"different one."
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:338
+#: ../custom-sidebars/custom-sidebars.php:341
+msgid "The operation is not secure and it cannot be completed."
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:364
+#, php-format
+msgid "The sidebar \"%s\" has been updated successfully."
+msgstr ""
+
+#: ../custom-sidebars/custom-sidebars.php:488
+msgid "The custom sidebars data has been removed successfully,"
+msgstr ""
+
+#: ../custom-sidebars/views/edit.php:25
+#: ../custom-sidebars/views/settings.php:63
+msgid "ID"
+msgstr ""
+
+#: ../custom-sidebars/views/edit.php:32
+#: ../custom-sidebars/views/settings.php:21
+#: ../custom-sidebars/views/settings.php:61
+msgid "Name"
+msgstr ""
+
+#: ../custom-sidebars/views/edit.php:39
+#: ../custom-sidebars/views/settings.php:27
+#: ../custom-sidebars/views/settings.php:62
+msgid "Description"
+msgstr ""
+
+#: ../custom-sidebars/views/edit.php:45
+msgid "Save Changes"
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:11
+msgid "New Sidebar"
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:13
+msgid ""
+"Add your sidebars below and then you can assign one of these sidebars from "
+"the individual posts/pages. When a sidebar is created, it is shown on the "
+"widgets page where you will be able to configure it."
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:24
+msgid "This name has to be unique."
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:34
+msgid "Create Sidebar"
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:50
+msgid "Are you sure to delete this sidebar?"
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:55
+msgid "Custom Sidebars"
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:78
+msgid "Configure Widgets"
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:79 ../post-types/slide-tax.php:148
+msgid "Edit"
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:80
+msgid "Delete"
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:85
+msgid "There are no custom sidebars available."
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:107
+#: ../custom-sidebars/views/settings.php:111
+msgid "Reset Sidebars"
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:109
+msgid ""
+"Click on the button below to delete all the custom sidebars data from the "
+"database. Keep in mind that once the button is clicked you will have to "
+"create new sidebars and customize them to restore your current sidebars "
+"configuration."
+msgstr ""
+
+#: ../custom-sidebars/views/settings.php:111
+msgid "Are you sure to reset the sidebars?"
+msgstr ""
+
+#: ../post-types/slide-tax.php:32 ../post-types/slide-tax.php:41
+msgid "Slides"
+msgstr ""
+
+#: ../post-types/slide-tax.php:33
+msgid "Slide"
+msgstr ""
+
+#: ../post-types/slide-tax.php:34
+msgid "All Slides"
+msgstr ""
+
+#: ../post-types/slide-tax.php:35 ../post-types/slide-tax.php:66
+msgctxt "slide"
+msgid "Add New"
+msgstr ""
+
+#: ../post-types/slide-tax.php:36
+msgid "Add New Slide"
+msgstr ""
+
+#: ../post-types/slide-tax.php:37
+msgid "Edit Slide"
+msgstr ""
+
+#: ../post-types/slide-tax.php:38
+msgid "New Slide"
+msgstr ""
+
+#: ../post-types/slide-tax.php:39
+msgid "View Slide"
+msgstr ""
+
+#: ../post-types/slide-tax.php:40
+msgid "Search Slides"
+msgstr ""
+
+#: ../post-types/slide-tax.php:63 ../post-types/slide-tax.php:72
+msgid "Slide Categories"
+msgstr ""
+
+#: ../post-types/slide-tax.php:64
+msgid "Slide Category"
+msgstr ""
+
+#: ../post-types/slide-tax.php:65
+msgid "All Slide Categories"
+msgstr ""
+
+#: ../post-types/slide-tax.php:67
+msgid "Add New Slide Category"
+msgstr ""
+
+#: ../post-types/slide-tax.php:68
+msgid "Edit Slide Category"
+msgstr ""
+
+#: ../post-types/slide-tax.php:69
+msgid "New Slide Category"
+msgstr ""
+
+#: ../post-types/slide-tax.php:70
+msgid "View Slide Category"
+msgstr ""
+
+#: ../post-types/slide-tax.php:71
+msgid "Search Slide Categories"
+msgstr ""
+
+#: ../post-types/slide-tax.php:91
+msgid "Title"
+msgstr ""
+
+#: ../post-types/slide-tax.php:92
+msgid "Categories"
+msgstr ""
+
+#: ../post-types/slide-tax.php:93
+msgid "Image"
+msgstr ""
+
+#: ../post-types/slide-tax.php:94
+msgid "Date"
+msgstr ""
+
+#: ../post-types/slide-tax.php:123 ../post-types/slide-tax.php:136
+msgid "Order Slides"
+msgstr ""
+
+#, fuzzy
+#~ msgid "There were no groups found."
+#~ msgstr "Test"
+
+#, fuzzy
+#~ msgid "Password Lost and Found"
+#~ msgstr "Test"
